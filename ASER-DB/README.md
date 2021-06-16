@@ -1,0 +1,1 @@
+The core version of [ASER](https://hkust-knowcomp.github.io/ASER/) which is openly available.
