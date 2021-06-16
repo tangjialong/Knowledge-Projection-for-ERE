@@ -1,0 +1,530 @@
+A fit B, he is small.
+he
+A,B
+A
+
+A fit B, he is large.
+he
+A,B
+A
+
+A call B, he is successful.
+he
+A,B
+B
+
+A call B, he is available.
+he
+A,B
+B
+
+A lift B, he is strong.
+he
+A,B
+A
+
+A lift B, he is light.
+he
+A,B
+B
+
+A yell B, he is upset.
+he
+A,B
+A
+
+A comfort B, he is upset.
+he
+A,B
+B
+
+A envy B, he is unsuccessful.
+he
+A,B
+A
+
+A envy B, he is successful.
+he
+A,B
+B
+
+A beat B, he is young.
+he
+A,B
+B
+
+A beat B, he is old.
+he
+A,B
+B
+
+A pay B, he is generous.
+he
+A,B
+B
+
+A pay B, he is grateful.
+he
+A,B
+B
+
+A pay B, he is happy.
+he
+A,B
+A
+
+A pay B, he is grateful.
+he
+A,B
+B
+
+A sit, and move B, he is hot.
+he
+A,B
+B
+
+A sit, and move B, he is cool.
+he
+A,B
+B
+
+A wait B, he is patient.
+he
+A,B
+A
+
+A eat B, he is hungry.
+he
+A,B
+A
+
+A eat B, he is tasty.
+he
+A,B
+B
+
+A see B, he is impressive.
+he
+A,B
+A
+
+A collapse and B help, he is ill.
+he
+A,B
+A
+
+A collapse and B help, he is concerned.
+he
+A,B
+B
+
+A read B, he is popular.
+he
+A,B
+B
+
+A knock B, he is out.
+he
+A,B
+B
+
+A have B, he is prepared.
+he
+A,B
+B
+
+A have B, he is enough.
+he
+A,B
+B
+
+A visit B, he is dead.
+he
+A,B
+A
+
+A attack B, he is bold.
+he
+A,B
+A
+
+A attack B, he is nervous.
+he
+A,B
+B
+
+A declare B, he is victorious.
+he
+A,B
+A
+
+A fit B, he is narrow.
+he
+A,B
+B
+
+A fit B, he is wide.
+he
+A,B
+B
+
+A find B, he is furious.
+he
+A,B
+A
+
+A find B, he is embarrassed.
+he
+A,B
+A
+
+A stop B, he is cruel.
+he
+A,B
+A
+
+A give B, he is hungry.
+he
+A,B
+A
+
+A cede B, he is unpopular.
+he
+A,B
+A
+
+A pass B, he is open.
+he
+A,B
+B
+
+A figure B, he is smart.
+he
+A,B
+A
+
+A fit B, he is small.
+he
+A,B
+A
+
+A fit B, he is large.
+he
+A,B
+A
+
+A call B, he is successful.
+he
+A,B
+A
+
+A call B, he is available.
+he
+A,B
+B
+
+A lift B, he is strong.
+he
+A,B
+A
+
+A lift B, he is light.
+he
+A,B
+B
+
+A yell B, he is upset.
+he
+A,B
+A
+
+A comfort B, he is upset.
+he
+A,B
+B
+
+A envy B, he is unsuccessful.
+he
+A,B
+A
+
+A envy B, he is successful.
+he
+A,B
+B
+
+A know B, he is nosy.
+he
+A,B
+A
+
+A know B, he is indiscreet.
+he
+A,B
+B
+
+A beat B, he is young.
+he
+A,B
+A
+
+A beat B, he is old.
+he
+A,B
+B
+
+A pay B, he is generous.
+he
+A,B
+A
+
+A pay B, he is grateful.
+he
+A,B
+B
+
+A pay B, he is happy.
+he
+A,B
+B
+
+A pay B, he is grateful.
+he
+A,B
+B
+
+A sit, and move B, he is hot.
+he
+A,B
+B
+
+A sit, and move B, he is cool.
+he
+A,B
+A
+
+A wait B, he is patient.
+he
+A,B
+A
+
+A wait B, he is cautious.
+he
+A,B
+B
+
+A eat B, he is hungry.
+he
+A,B
+A
+
+A eat B, he is tasty.
+he
+A,B
+B
+
+A research and B hum, he is annoyed.
+he
+A,B
+A
+
+A research and B hum, he is annoying.
+he
+A,B
+B
+
+A see B, he is impressed.
+he
+A,B
+A
+
+A see B, he is impressive.
+he
+A,B
+B
+
+A collapse and B help, he is ill.
+he
+A,B
+A
+
+A collapse and B help, he is concerned.
+he
+A,B
+B
+
+A read B, he is gripped.
+he
+A,B
+A
+
+A read B, he is popular.
+he
+A,B
+B
+
+A knock B, he is disappointed.
+he
+A,B
+A
+
+A knock B, he is out.
+he
+A,B
+B
+
+A have B, he is prepared.
+he
+A,B
+A
+
+A have B, he is enough.
+he
+A,B
+B
+
+A visit B, he is dead.
+he
+A,B
+B
+
+A attack B, he is bold.
+he
+A,B
+A
+
+A attack B, he is nervous.
+he
+A,B
+B
+
+A declare B, he is defeated.
+he
+A,B
+B
+
+A interview B, he is persistent.
+he
+A,B
+A
+
+A interview B, he is cooperative.
+he
+A,B
+B
+
+A fit B, he is narrow.
+he
+A,B
+A
+
+A find B, he is furious.
+he
+A,B
+A
+
+A find B, he is embarrassed.
+he
+A,B
+B
+
+A stop B, he is compassionate.
+he
+A,B
+A
+
+A stop B, he is cruel.
+he
+A,B
+B
+
+A give B, he is plump.
+he
+A,B
+A
+
+A give B, he is hungry.
+he
+A,B
+A
+
+A cede B, he is unpopular.
+he
+A,B
+B
+
+A cede B, he is popular.
+he
+A,B
+A
+
+A pass B, he is open.
+he
+A,B
+B
+
+A figure B, he is smart.
+he
+A,B
+A
+
+A figure B, he is simple.
+he
+A,B
+B
+
+A fit B, he is small.
+he
+A,B
+A
+
+A fit B, he is large.
+he
+A,B
+B
+
+A call B, he is available.
+he
+A,B
+B
+
+A lift B, he is strong.
+he
+A,B
+A
+
+A pay B, he is generous.
+he
+A,B
+A
+
+A pay B, he is grateful.
+he
+A,B
+B
+
+A pay B, he is grateful.
+he
+A,B
+B
+
+A wait B, he is patient.
+he
+A,B
+A
+
+A eat B, he is hungry.
+he
+A,B
+A
+
+A eat B, he is tasty.
+he
+A,B
+B
+
+A attack B, he is nervous.
+he
+A,B
+B
+
